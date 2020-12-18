@@ -1,5 +1,6 @@
-class Solution:
+from typing import List
 
+class Solution:
     # revised
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
 
@@ -16,7 +17,7 @@ class Solution:
 
     # initial quick and dirty
     def merge_old(self, intervals: List[List[int]]) -> List[List[int]]:
-            res = []
+        res = []
 
         tmp1 = intervals.pop()
         print(tmp1)
