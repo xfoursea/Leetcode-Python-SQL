@@ -1,4 +1,4 @@
 # Leetcode-Python-SQL
 LeetCode Python3 solutions
-No sql yet
-Jan 4, 2021
+Will add sql soon
+Jan 23, 2023
