@@ -1,5 +1,5 @@
 # Leetcode-Python-SQL
 LeetCode Python3 solutions
-Will add sql soon
+Will add sqls soon
 Jan 23, 2023
 
